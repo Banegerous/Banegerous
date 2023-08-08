@@ -1,4 +1,4 @@
-👋 Hi, I’m @Banegerous (Matthew Bane), a front end web developer with over ten years of experience in web development & digital markerting. 
+👋 Hi, I’m @Banegerous (Matthew Bane), a front end web developer with over ten years of experience in web development & digital marketing. 
 
 I've worked on a variety of projects for the affinity insurance market, which includes such notable clients as United Airlines MileagePlus as well as the National Education Association and many more.  
 
