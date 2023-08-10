@@ -17,7 +17,7 @@ Most of my past work has included the total front end experience from design, (P
 ### Socials
 
 <div id="badges">
-  <a href="www.linkedin.com/in/matthew-bane-47351346">
+  <a href="https://www.linkedin.com/in/matthew-bane-front-end-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
