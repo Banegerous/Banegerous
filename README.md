@@ -8,6 +8,19 @@ Most of my past work has included the total front end experience from design, (P
 
 🌱 I’m currently learning more complex JavaScript in order to expand my horizons into the full-stack arena.
 
-You can reach me at: matthewlbane@gmail.com
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="www.linkedin.com/in/matthew-bane-47351346">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 
